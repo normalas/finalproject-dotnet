@@ -1,7 +1,11 @@
 {
-"database": "nikolams",
-"login": {
-  "username": "nikolams",
-  "password": "jC2mU38W"
-  }
+  "server-name": "Donau.hiof.no",
+  "databases":{
+    {
+      "database": "nikolams",
+      "login": {
+        "username": "nikolams",
+        "password": "jC2mU38W"
+      }
+    }
 }
